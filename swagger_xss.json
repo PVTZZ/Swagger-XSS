@@ -1,8 +1,8 @@
 {
-    "url": "swagger_xss.yaml",
+    "url": "https://github.com/PVTZZ/Swagger-XSS/blob/main/swagger_xss.yaml",
     "urls": [
         {
-            "url": "swagger_xss.yaml",
+            "url": "https://github.com/PVTZZ/Swagger-XSS/blob/main/swagger_xss.yaml",
             "name": "Foo"
         }
     ]
